@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6621a0a3-45e2-406e-bc78-53779e4a75e1" name="Default" comment="" />
+    <list default="true" id="6621a0a3-45e2-406e-bc78-53779e4a75e1" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/welcome.html" afterPath="$PROJECT_DIR$/welcome.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="FrontEnd.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/welcome.html" changelist="6621a0a3-45e2-406e-bc78-53779e4a75e1" time="1376410708667" ignored="false" />
+    <file path="/welcome.html" changelist="6621a0a3-45e2-406e-bc78-53779e4a75e1" time="1376411638486" ignored="false" />
     <file path="/Dummy.txt" changelist="6621a0a3-45e2-406e-bc78-53779e4a75e1" time="1376410502535" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,16 +36,7 @@
       <file leaf-file-name="welcome.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/welcome.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="42" selection-start="924" selection-end="924" vertical-scroll-proportion="0.69962686">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".project" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.project">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="0" selection-start="420" selection-end="420" vertical-scroll-proportion="0.0">
+            <state line="24" column="24" selection-start="872" selection-end="872" vertical-scroll-proportion="0.67164177">
               <folding />
             </state>
           </provider>
@@ -349,14 +343,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.project">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="420" selection-end="420" vertical-scroll-proportion="0.0">
+        <state line="19" column="0" selection-start="420" selection-end="420" vertical-scroll-proportion="0.4973822">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/welcome.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="42" selection-start="924" selection-end="924" vertical-scroll-proportion="0.69962686">
+        <state line="24" column="24" selection-start="872" selection-end="872" vertical-scroll-proportion="0.67164177">
           <folding />
         </state>
       </provider>
