@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2586834470">
+    <data-source source="LOCAL" name="BBJon" product="MySQL" version="5.0.96-log" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.26 ( Revision: ${bzr.revision-id} )" uuid="fd79d4a6-9e6c-45bd-94a7-df327961ace1">
+      <extra-name-characters>#@</extra-name-characters>
+      <identifier-quote-string>`</identifier-quote-string>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://SB01PROD.db.11498266.hostedresource.com</jdbc-url>
+      <user-name>SB01PROD</user-name>
+      <user-password>dff0dfcbdfdbdf9bdfd2dfd9dfdddfea</user-password>
+      <default-dialect>MySQL</default-dialect>
+      <libraries>
+        <library>
+          <url>file://$PROJECT_DIR$/lib_dbconnector/mysql-connector-java-5.1.26-bin.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+
